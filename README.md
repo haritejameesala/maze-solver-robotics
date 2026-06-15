@@ -201,7 +201,7 @@ Angles.csv
 
 Contains:
 
-| THETA 1 | THETA 2 |
+| THETA 1 | THETA 4 |
 |---------|---------|
 
 Used for robotic execution.
