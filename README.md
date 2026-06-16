@@ -154,7 +154,7 @@ Angles.csv
 Clone repository:
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/haritejameesala/maze-solver-robotics.git
 cd maze_solver
 ```
 
